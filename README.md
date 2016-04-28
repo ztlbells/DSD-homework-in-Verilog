@@ -1,5 +1,5 @@
 # DSD-homework-in-Verilog
-These codes are for the lesson Digital System Design (IS208@SJTU).
+These codes are for the lesson Digital System Design (IS208@SJTU).\n
 There are 18 little/sub- projects.
 1.wave generator - wavegen.v
 2.8x3 encoder -encoder8x3.v
