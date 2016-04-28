@@ -1,14 +1,14 @@
 # DSD-homework-in-Verilog
-These codes are for the lesson Digital System Design (IS208@SJTU).\n
-There are 18 little/sub- projects.
-1.wave generator - wavegen.v
-2.8x3 encoder -encoder8x3.v
-  testbench -tb_encoder8x3.v
-3.mul2x1.v -with bufif1s and invertor 
-  mux4x1.v -with ands or and invertors
-4.comb_dataflow.v 
-  comb_behavior.v
-  comb_prim.v 
+These codes are for the lesson Digital System Design (IS208@SJTU).＜/br＞
+There are 18 little/sub- projects.＜/br＞
+1.wave generator - wavegen.v＜/br＞
+2.8x3 encoder -encoder8x3.v＜/br＞
+  testbench -tb_encoder8x3.v＜/br＞
+3.mul2x1.v -with bufif1s and invertor ＜/br＞
+  mux4x1.v -with ands or and invertors＜/br＞
+4.comb_dataflow.v ＜/br＞
+  comb_behavior.v＜/br＞
+  comb_prim.v ＜/br＞
   -3 implementation for a truth table
   & testbench:testbench_comb
 5.BDC 2 Excess3: BCD2Excess3.v & tb
